@@ -1,0 +1,26 @@
+{
+  "name": "@mobx-app/data",
+  "version": "0.0.1",
+  "description": "Persistency framework for mobx app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobx-app/data.git"
+  },
+  "keywords": [
+    "mobx",
+    "data",
+    "rest",
+    "persistency",
+    "api"
+  ],
+  "author": "Artur Smirnov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobx-app/data/issues"
+  },
+  "homepage": "https://github.com/mobx-app/data#readme"
+}
